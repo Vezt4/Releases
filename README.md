@@ -18,7 +18,7 @@ Versões anteriores ficam na aba [Releases](https://github.com/Vezt4/Releases/re
 
 - Pelo APK, as atualizações **não chegam sozinhas**: baixe a nova versão aqui quando sair.
 - O app está em **teste fechado na Google Play**. Para instalar pela Play e receber atualizações automáticas,
-  entre no teste pelo [site do Vezta](https://vezta.app/#teste) ou pelo
+  entre no teste pelo [site do Vezta](https://try.vezta.com.br/#teste) ou pelo
   [BrTesters](https://brtesters.app/apps/details?id=com.vezta.app).
 - O APK e a versão da Play são assinados com chaves diferentes. Para trocar de um para o outro, desinstale o
   app antes.
